@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+button {
+  font-size: 18px;
+  border: none;
+  background-color: white;
+}
+
+#count {
+  font-size: 36px;
+}
